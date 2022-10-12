@@ -11,3 +11,5 @@ Repositório para as aulas do intensivão de Python da hashtag cursos
  - Analisa base de dados para avaliar as categorias onde ocorreram `churns` na empresa.
 
  ![plot_plotly](aula-02.png)
+
+ - Cria gráfico contendo o valor bruto recebido com base no sistema de MSC da Trybe
